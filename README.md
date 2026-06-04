@@ -71,14 +71,20 @@ The model was implemented in PostgreSQL using primary keys, foreign keys and a d
 - Data Visualization
 
 ## Dashboard Overview
-
 The Power BI dashboard was designed to answer the three main research questions through dedicated analysis pages:
-  ### Age Analysis
-  Analysis of average athlete age across sports and genders.
-  ### Body Profiles
-  Comparison of average height and weight profiles across sports and genders.
-  ### Decade Trends
-  Long-term analysis of age, height and weight developments across decades.
+
+### Age Analysis
+Analysis of average athlete age across sports and genders.
+![Age Analysis](dashboard/age_analysis.png)
+
+### Body Profiles
+Comparison of average height and weight profiles across sports and genders.
+![Body Profiles](dashboard/body_profiles.png)
+
+### Decade Trends
+Long-term analysis of age, height and weight developments across decades.
+![Decade Trends](dashboard/decade_trends.png)
+  
 
 ## Key Findings
 
