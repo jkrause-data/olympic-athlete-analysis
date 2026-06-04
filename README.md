@@ -13,14 +13,14 @@ By examining athlete age, height and weight across sports and genders, the analy
 
 ## Research Questions
 
-  ### 1. At what age do athletes typically compete in each Olympic sport?
-  The analysis examines average athlete age across sports and compares differences between male and female athletes.
+### 1. At what age do athletes typically compete in each Olympic sport?
+The analysis examines average athlete age across sports and compares differences between male and female athletes.
   
-  ### 2. What physical characteristics are typical for different sports?
-  This question focuses on athlete height and weight profiles across sports, again distinguishing between male and female athletes.
+### 2. What physical characteristics are typical for different sports?
+This question focuses on athlete height and weight profiles across sports, again distinguishing between male and female athletes.
   
-  ### 3. How have Olympic athletes changed over time?
-  The analysis investigates whether athlete age, height and weight have changed over the decades and whether these developments differ between men and women.
+### 3. How have Olympic athletes changed over time?
+The analysis investigates whether athlete age, height and weight have changed over the decades and whether these developments differ between men and women.
 
 ## Dataset
 The analysis is based on a historical Olympic Games dataset containing athlete participation records across multiple decades.
@@ -76,6 +76,26 @@ The Power BI dashboard was designed to answer the three main research questions 
 
 ## Key Findings
 
+- Athlete age varies significantly across sports. Sports such as Gymnastics and Swimming are generally characterized by younger athletes, while sports such as Equestrianism and Archery tend to have higher average ages.
+
+- Male and female athletes often compete at different stages of their athletic careers. In several sports, female athletes participate at younger average ages than their male counterparts.
+
+- Distinct sport-specific body profiles were identified. Sports such as Basketball, Volleyball and Rowing are associated with taller and heavier athletes, while other disciplines show considerably smaller average body measurements.
+
+- Long-term trend analysis revealed that athletes in several sports have become taller and heavier over the decades, although these developments vary considerably between sports.
+
+- Historical factors, including world wars and the later introduction of women to certain Olympic disciplines, influence the interpretation of long-term trends and should be considered when comparing results across time periods.
+
 ## Recommendations
 
+- Training and talent development programs should be tailored to sport-specific athlete profiles rather than relying on generalized assumptions.
+
+- Age, height and weight benchmarks can support athlete development by providing realistic reference values for different sports and genders.
+
+- Long-term changes in athlete profiles should be monitored continuously to adapt training concepts to evolving physical demands in elite sports.
+
+- Historical and contextual factors should be considered when interpreting athlete development trends, especially when comparing male and female participation across different time periods.
+
 ## Repository Structure
+
+Repository structure will be documented after all project files have been uploaded.
