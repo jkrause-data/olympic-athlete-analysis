@@ -42,7 +42,9 @@ Key attributes included:
 To support efficient analysis, the original flat dataset was normalized into a relational database model and imported into PostgreSQL.
 
 ## Data Model
+
 The original dataset was transformed into a normalized relational database model to improve data consistency and support efficient analytical queries.
+
 The final database structure consists of the following entities:
 
 - Athletes
@@ -53,6 +55,10 @@ The final database structure consists of the following entities:
 - Results
 
 The model was implemented in PostgreSQL using primary keys, foreign keys and a dedicated medal ENUM type.
+
+### Entity Relationship Diagram
+
+![Olympics ERD](data_model/olympics_erd.jpg)
 
 ## Tools & Technologies
 
