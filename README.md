@@ -110,4 +110,25 @@ Long-term analysis of age, height and weight developments across decades.
 
 ## Repository Structure
 
-Repository structure will be documented after all project files have been uploaded.
+```text
+olympic-athlete-analysis/
+│
+├── README.md
+│
+├── database_setup/
+│   └── olympics_database_setup.sql
+│
+├── data_model/
+│   └── olympics_erd.jpg
+│
+├── dashboard/
+│   ├── age_analysis.png
+│   ├── body_profiles.png
+│   └── decade_trends.png
+│
+└── sql_analysis/
+    ├── 01_age_analysis.sql
+    ├── 02_body_profiles.sql
+    └── 03_decade_trends.sql
+```
+
