@@ -132,3 +132,14 @@ olympic-athlete-analysis/
     └── 03_decade_trends.sql
 ```
 
+## Author
+
+**Jenny Krause**
+
+Aspiring Data Analyst with a focus on:
+
+- SQL & PostgreSQL
+- Power BI
+- Data Analysis
+- Reporting & Business Intelligence
+- Process Optimization
