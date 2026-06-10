@@ -136,10 +136,17 @@ olympic-athlete-analysis/
 
 **Jenny Krause**
 
-Aspiring Data Analyst with a focus on:
+Data Analyst with a focus on Business Intelligence, Reporting and Process Optimization.
+
+Key skills:
 
 - SQL & PostgreSQL
 - Power BI
 - Data Analysis
-- Reporting & Business Intelligence
+- Business Intelligence
 - Process Optimization
+
+  
+## Connect with Me
+
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/jenny-krause-data-analystin/)
